@@ -1,0 +1,7 @@
+{
+  "artifactId" : "secrets-rotation-orchestrator",
+  "status" : "MOCK_API_UNAVAILABLE",
+  "message" : "mock server list API returned HTTP 401",
+  "endpointCount" : 0,
+  "generatedAt" : "2026-10-26T12:02:53.189766951Z"
+}
