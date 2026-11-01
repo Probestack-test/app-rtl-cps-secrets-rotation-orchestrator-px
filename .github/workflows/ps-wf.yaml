@@ -5,7 +5,7 @@ on:
     branches:
       - feature-adarsha
       - release
-
+  workflow_dispatch: 
 jobs:
   apigee-ci:
     uses: ForgeCrux/pipeline-template/.github/workflows/apigee.yaml@main
